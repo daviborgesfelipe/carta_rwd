@@ -1,0 +1,69 @@
+body {
+    font-family: 'Cinzel', serif;
+}
+
+#bordaCarta {
+    border: 8px solid #880b0b;
+    border-radius: 4px;
+    width: 400px;
+    height: 570px;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+.padrao-msg {
+    
+    margin-left: 8px;
+    background-color: #d69302;
+}
+
+.padrao-msg-fim {
+    width: 230px;
+    padding: 8px;
+    border: 2px solid #880b0b;
+}
+
+.mensagem {
+    margin: 15px 8px 15px;
+    background-color: #d69302;
+    padding: 30px 45px;
+    text-align: center;
+    border: 2px solid #880b0b;
+}
+
+.div-topo{
+    background-color: #d69302; 
+    display: inline-block; 
+    padding: 5px;
+    border: 2px solid #880b0b;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    float: right;
+    width: 65px; 
+    height: 65px;
+    padding-right: 2%;
+    text-decoration: none;
+    text-align: center;
+    background-color: #d69302;
+    color: #000000;
+    border: 2px solid #880b0b;
+    border-radius: 4px;
+    font-family: 'Cinzel', serif;
+    margin-right: 8%;
+}
+
+a:hover{
+    float: right;
+    background-color: #db1b1b;
+    color: #000000;
+    border: 2px solid #000000;
+}
+
+.margin-final{
+    margin-top: 2%;
+} 
